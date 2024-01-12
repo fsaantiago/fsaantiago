@@ -1,10 +1,18 @@
-### Olá! Eu sou o Fernando Santiago 👋
+## Hi there! I'm Fernando Santiago 👋
+![image title](https://rushter.com/counter.svg)
 
-Estudante de Sistemas de Informação e apaixonado por Tecnologia da Informação.
+I'm a software development enthusiast!
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsaantiago&show_icons=true&theme=tokyonight)
+#### Talking about Personal Stuff:
+🛠   I'm currently improving my coding skills.
 
-## Tecnologias que eu uso no meu dia
+🚀   I’m currently exploring Back-end, Front-end and DevOps skills.
+
+💬   Check my professional background at [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-santiago/)
+
+📫   Reach me out: fernando.santiago770@gmail.com
+
+## Languages and Tools
 
 <div style="display: inline_block"><p/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -20,13 +28,8 @@ Estudante de Sistemas de Informação e apaixonado por Tecnologia da Informaçã
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img align="center" alt="sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />  
+  <img align="center" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />  
 </div>
-
-## Contato
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-santiago/)
-[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@fsaantiago)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531987413780)
 
 
 
