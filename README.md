@@ -1,5 +1,4 @@
 ## Hi there! I'm Fernando Santiago 👋
-![image title](https://rushter.com/counter.svg)
 
 I'm a software development enthusiast!
 
