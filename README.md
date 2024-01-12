@@ -3,7 +3,7 @@
 I'm a software development enthusiast!
 
 #### Talking about Personal Stuff:
-🛠   I'm currently improving my coding skills.
+🛠   I'm currently improving my coding/programming skills.
 
 🚀   I’m currently exploring Back-end, Front-end and DevOps skills.
 
