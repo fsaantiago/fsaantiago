@@ -7,7 +7,8 @@ I'm a software development enthusiast!
 
 🚀   I’m currently exploring Back-end, Front-end and DevOps skills.
 
-💬   See my professional background at [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-santiago/)
+💬   See my professional background at 
+[Linkedin](https://www.linkedin.com/in/fernando-santiago/)
 
 📫   How to reache me at fernando.santiago770@gmail.com
 
