@@ -3,13 +3,13 @@
 I'm a software development enthusiast!
 
 #### Talking about Personal Stuff:
-🛠   I'm currently improving my coding/programming skills.
+🛠   I'm currently evolving my programmind/coding skills.
 
 🚀   I’m currently exploring Back-end, Front-end and DevOps skills.
 
-💬   Check my professional background at [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-santiago/)
+💬   See my professional background at [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-santiago/)
 
-📫   Reach me out: fernando.santiago770@gmail.com
+📫   How to reache me at fernando.santiago770@gmail.com
 
 ## Languages and Tools
 
