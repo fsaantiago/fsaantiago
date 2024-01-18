@@ -1,6 +1,6 @@
 ## Hi there! I'm Fernando Santiago 👋
 
-I'm a software development enthusiast!
+I'm a software development enthusiast and Information System student!
 
 #### Talking about Personal Stuff:
 🛠   I'm currently evolving my programmind/coding skills.
