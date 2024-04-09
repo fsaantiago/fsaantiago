@@ -5,7 +5,7 @@ I'm a software development enthusiast and Information System student!
 #### Talking about Personal Stuff:
 🛠   I'm currently evolving my programmind/coding skills.
 
-🚀   I’m currently exploring Back-end, Front-end and DevOps skills.
+🚀   I’m currently exploring Back-end, Front-end, Mobile and DevOps skills.
 
 💬   See my professional background at 
 [Linkedin](https://www.linkedin.com/in/fernando-santiago/)
