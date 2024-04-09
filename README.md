@@ -13,7 +13,7 @@ I'm a software development enthusiast and Information System student!
 📫   How to reache me at fernando.santiago770@gmail.com
 
 ## Languages and Tools
-https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
+
 <div style="display: inline_block"><p/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
