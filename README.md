@@ -33,7 +33,7 @@ I'm a software development enthusiast and Information System student!
   <img align="center" alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />  
 </div>
 
-- #### Frameworks e ferramentas
+- #### Frameworks & Tools
 
 <div style="display: inline_block"><p/>
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -41,7 +41,7 @@ I'm a software development enthusiast and Information System student!
   <img align="center" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />  
 </div>
 
-- #### Bancos de dados
+- #### Databases
   
 <div style="display: inline_block"><p/>
   <img align="center" alt="postegree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
