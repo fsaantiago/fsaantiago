@@ -1,16 +1,14 @@
 ## Hi there! I'm Fernando Santiago 👋
 
-I'm a software development enthusiast and Information System student!
+🚀 I'm a Software Developer enthusiast exploring Back-end, Front-end, Mobile and DevOps skills!
 
 #### Talking about Personal Stuff:
 🛠   I'm currently evolving my programmind/coding skills.
 
-🚀   I’m currently exploring Back-end, Front-end, Mobile and DevOps skills.
-
 💬   See my professional background at 
 [Linkedin](https://www.linkedin.com/in/fernando-santiago/)
 
-📫   How to reache me at fernando.santiago770@gmail.com
+📫   Reach me at: fernando.santiago770@gmail.com
 
 ## Languages and Tools
 
@@ -38,6 +36,7 @@ I'm a software development enthusiast and Information System student!
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />  
   <img align="center" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />  
+  <img align="center" alt="hibernate" src="[https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)" />  
 </div>
 
 - #### Databases
