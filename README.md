@@ -1,6 +1,6 @@
 ## Hi there! I'm Fernando Santiago 👋
 
-🚀 I'm a Software Developer enthusiast exploring Back-end, Front-end, Mobile and DevOps skills!
+🚀 I'm a Software Developer exploring Back-end, Front-end, Mobile and DevOps skills!
 
 #### Talking about Personal Stuff:
 🛠   I'm currently evolving my programmind/coding skills.
