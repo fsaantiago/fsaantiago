@@ -1,9 +1,9 @@
 ## Hi there! I'm Fernando Santiago 👋
 
-🚀 I'm a Software Developer exploring Back-end, Front-end, Mobile and DevOps skills!
+🚀 I'm a Software Developer exploring Back-end, Front-end and Mobile skills!
 
 #### Talking about Personal Stuff:
-🛠   I'm currently evolving my programmind/coding skills.
+🛠   I'm currently evolving my programming/coding skills.
 
 💬   See my professional background at 
 [Linkedin](https://www.linkedin.com/in/fernando-santiago/)
@@ -12,7 +12,7 @@
 
 ## Languages and Tools
 
-- #### Front-end & Back-end
+- #### Back-end & Front-end 
 
 <div style="display: inline_block"><p/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
